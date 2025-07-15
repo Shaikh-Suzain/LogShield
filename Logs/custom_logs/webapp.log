@@ -1,0 +1,215 @@
+[INFO] 2025-06-29 22:00:01 - User 'admin' logged in
+[ERROR] 2025-06-29 22:01:02 - Failed login attempt from 192.168.0.45
+[INFO] 2025-06-29 22:02:11 - User 'test' logged out
+[WARN] 2025-06-29 22:03:45 - Suspicious activity detected
+[ERROR] 2025-06-29 15:40:00 - Failed login from 10.0.0.200
+Login failed for user 1
+Login failed for user 2
+Login failed for user 3
+Login failed for user 4
+Login failed for user 5
+Login failed for user 6
+Login failed for user 7
+Login failed for user 8
+Login failed for user 9
+Login failed for user 10
+Login failed for user 11
+Login failed for user 12
+Login failed for user 13
+Login failed for user 14
+Login failed for user 15
+Login failed for user 16
+Login failed for user 17
+Login failed for user 18
+Login failed for user 19
+Login failed for user 20
+Login failed for user 21
+Login failed for user 22
+Login failed for user 23
+Login failed for user 24
+Login failed for user 25
+Login failed for user 26
+Login failed for user 27
+Login failed for user 28
+Login failed for user 29
+Login failed for user 30
+Login failed for user 31
+Login failed for user 32
+Login failed for user 33
+Login failed for user 34
+Login failed for user 35
+Login failed for user 36
+Login failed for user 37
+Login failed for user 38
+Login failed for user 39
+Login failed for user 40
+Login failed for user 41
+Login failed for user 42
+Login failed for user 43
+Login failed for user 44
+Login failed for user 45
+Login failed for user 46
+Login failed for user 47
+Login failed for user 48
+Login failed for user 49
+Login failed for user 50
+Login failed for user 51
+Login failed for user 52
+Login failed for user 53
+Login failed for user 54
+Login failed for user 55
+Login failed for user 56
+Login failed for user 57
+Login failed for user 58
+Login failed for user 59
+Login failed for user 60
+Login failed for user 61
+Login failed for user 62
+Login failed for user 63
+Login failed for user 64
+Login failed for user 65
+Login failed for user 66
+Login failed for user 67
+Login failed for user 68
+Login failed for user 69
+Login failed for user 70
+Login failed for user 71
+Login failed for user 72
+Login failed for user 73
+Login failed for user 74
+Login failed for user 75
+Login failed for user 76
+Login failed for user 77
+Login failed for user 78
+Login failed for user 79
+Login failed for user 80
+Sun Jun 29 16:29:49 UTC 2025 - Failed login attempt for user 1
+Sun Jun 29 16:29:49 UTC 2025 - Failed login attempt for user 2
+Sun Jun 29 16:29:49 UTC 2025 - Failed login attempt for user 3
+Sun Jun 29 16:29:49 UTC 2025 - Failed login attempt for user 4
+Sun Jun 29 16:29:49 UTC 2025 - Failed login attempt for user 5
+Sun Jun 29 16:29:49 UTC 2025 - Failed login attempt for user 6
+Sun Jun 29 16:29:49 UTC 2025 - Failed login attempt for user 7
+Sun Jun 29 16:29:49 UTC 2025 - Failed login attempt for user 8
+Sun Jun 29 16:29:49 UTC 2025 - Failed login attempt for user 9
+Sun Jun 29 16:29:49 UTC 2025 - Failed login attempt for user 10
+Sun Jun 29 16:29:49 UTC 2025 - Failed login attempt for user 11
+Sun Jun 29 16:29:49 UTC 2025 - Failed login attempt for user 12
+Sun Jun 29 16:29:49 UTC 2025 - Failed login attempt for user 13
+Sun Jun 29 16:29:49 UTC 2025 - Failed login attempt for user 14
+Sun Jun 29 16:29:49 UTC 2025 - Failed login attempt for user 15
+Sun Jun 29 16:29:49 UTC 2025 - Failed login attempt for user 16
+Sun Jun 29 16:29:49 UTC 2025 - Failed login attempt for user 17
+Sun Jun 29 16:29:49 UTC 2025 - Failed login attempt for user 18
+Sun Jun 29 16:29:49 UTC 2025 - Failed login attempt for user 19
+Sun Jun 29 16:29:49 UTC 2025 - Failed login attempt for user 20
+Sun Jun 29 16:29:49 UTC 2025 - Failed login attempt for user 21
+Sun Jun 29 16:29:49 UTC 2025 - Failed login attempt for user 22
+Sun Jun 29 16:29:49 UTC 2025 - Failed login attempt for user 23
+Sun Jun 29 16:29:49 UTC 2025 - Failed login attempt for user 24
+Sun Jun 29 16:29:49 UTC 2025 - Failed login attempt for user 25
+Sun Jun 29 16:29:49 UTC 2025 - Failed login attempt for user 26
+Sun Jun 29 16:29:49 UTC 2025 - Failed login attempt for user 27
+Sun Jun 29 16:29:49 UTC 2025 - Failed login attempt for user 28
+Sun Jun 29 16:29:49 UTC 2025 - Failed login attempt for user 29
+Sun Jun 29 16:29:49 UTC 2025 - Failed login attempt for user 30
+Sun Jun 29 16:29:49 UTC 2025 - Failed login attempt for user 31
+Sun Jun 29 16:29:49 UTC 2025 - Failed login attempt for user 32
+Sun Jun 29 16:29:49 UTC 2025 - Failed login attempt for user 33
+Sun Jun 29 16:29:49 UTC 2025 - Failed login attempt for user 34
+Sun Jun 29 16:29:49 UTC 2025 - Failed login attempt for user 35
+Sun Jun 29 16:29:49 UTC 2025 - Failed login attempt for user 36
+Sun Jun 29 16:29:49 UTC 2025 - Failed login attempt for user 37
+Sun Jun 29 16:29:49 UTC 2025 - Failed login attempt for user 38
+Sun Jun 29 16:29:49 UTC 2025 - Failed login attempt for user 39
+Sun Jun 29 16:29:49 UTC 2025 - Failed login attempt for user 40
+Sun Jun 29 16:29:49 UTC 2025 - Failed login attempt for user 41
+Sun Jun 29 16:29:49 UTC 2025 - Failed login attempt for user 42
+Sun Jun 29 16:29:49 UTC 2025 - Failed login attempt for user 43
+Sun Jun 29 16:29:49 UTC 2025 - Failed login attempt for user 44
+Sun Jun 29 16:29:49 UTC 2025 - Failed login attempt for user 45
+Sun Jun 29 16:29:49 UTC 2025 - Failed login attempt for user 46
+Sun Jun 29 16:29:49 UTC 2025 - Failed login attempt for user 47
+Sun Jun 29 16:29:49 UTC 2025 - Failed login attempt for user 48
+Sun Jun 29 16:29:49 UTC 2025 - Failed login attempt for user 49
+Sun Jun 29 16:29:49 UTC 2025 - Failed login attempt for user 50
+Sun Jun 29 16:29:49 UTC 2025 - Failed login attempt for user 51
+Sun Jun 29 16:29:49 UTC 2025 - Failed login attempt for user 52
+Sun Jun 29 16:29:49 UTC 2025 - Failed login attempt for user 53
+Sun Jun 29 16:29:49 UTC 2025 - Failed login attempt for user 54
+Sun Jun 29 16:29:50 UTC 2025 - Failed login attempt for user 55
+Sun Jun 29 16:29:50 UTC 2025 - Failed login attempt for user 56
+Sun Jun 29 16:29:50 UTC 2025 - Failed login attempt for user 57
+Sun Jun 29 16:29:50 UTC 2025 - Failed login attempt for user 58
+Sun Jun 29 16:29:50 UTC 2025 - Failed login attempt for user 59
+Sun Jun 29 16:29:50 UTC 2025 - Failed login attempt for user 60
+Sun Jun 29 16:29:50 UTC 2025 - Failed login attempt for user 61
+Sun Jun 29 16:29:50 UTC 2025 - Failed login attempt for user 62
+Sun Jun 29 16:29:50 UTC 2025 - Failed login attempt for user 63
+Sun Jun 29 16:29:50 UTC 2025 - Failed login attempt for user 64
+Sun Jun 29 16:29:50 UTC 2025 - Failed login attempt for user 65
+Sun Jun 29 16:29:50 UTC 2025 - Failed login attempt for user 66
+Sun Jun 29 16:29:50 UTC 2025 - Failed login attempt for user 67
+Sun Jun 29 16:29:50 UTC 2025 - Failed login attempt for user 68
+Sun Jun 29 16:29:50 UTC 2025 - Failed login attempt for user 69
+Sun Jun 29 16:29:50 UTC 2025 - Failed login attempt for user 70
+Sun Jun 29 16:29:50 UTC 2025 - Failed login attempt for user 71
+Sun Jun 29 16:29:50 UTC 2025 - Failed login attempt for user 72
+Sun Jun 29 16:29:50 UTC 2025 - Failed login attempt for user 73
+Sun Jun 29 16:29:50 UTC 2025 - Failed login attempt for user 74
+Sun Jun 29 16:29:50 UTC 2025 - Failed login attempt for user 75
+Sun Jun 29 16:29:50 UTC 2025 - Failed login attempt for user 76
+Sun Jun 29 16:29:50 UTC 2025 - Failed login attempt for user 77
+Sun Jun 29 16:29:50 UTC 2025 - Failed login attempt for user 78
+Sun Jun 29 16:29:50 UTC 2025 - Failed login attempt for user 79
+Sun Jun 29 16:29:50 UTC 2025 - Failed login attempt for user 80
+2025-06-29T17:45:13 Failed login attempt from user suzain1
+2025-06-29T17:45:13 Failed login attempt from user suzain2
+2025-06-29T17:45:13 Failed login attempt from user suzain3
+2025-06-29T17:45:13 Failed login attempt from user suzain4
+2025-06-29T17:45:13 Failed login attempt from user suzain5
+2025-06-29T17:45:13 Failed login attempt from user suzain6
+2025-06-29T17:45:13 Failed login attempt from user suzain7
+2025-06-29T17:45:13 Failed login attempt from user suzain8
+2025-06-29T17:45:13 Failed login attempt from user suzain9
+2025-06-29T17:45:13 Failed login attempt from user suzain10
+[2025-06-30 10:45:00] LOGIN FAILED from 192.168.1.100
+[2025-06-30 10:45:15] LOGIN FAILED from 8.8.8.8
+[2025-06-30 10:46:00] LOGIN FAILED from 1.1.1.1
+[2025-06-30 10:45:00] LOGIN FAILED from 192.168.1.100
+[2025-06-30 10:45:15] LOGIN FAILED from 8.8.8.8
+[2025-06-30 10:46:00] LOGIN FAILED from 1.1.1.1
+[2025-06-30 12:40:00] LOGIN FAILED from 1.1.1.1
+[2025-06-30 12:41:00] LOGIN FAILED from 8.8.8.8
+[2025-06-30 18:30:00] LOGIN FAILED from 8.8.8.8
+[2025-06-30 18:31:00] LOGIN FAILED from 1.1.1.1
+[2025-06-30 20:00:00] LOGIN FAILED from 8.8.8.8
+[2025-06-30 22:01:00] LOGIN FAILED from 1.1.1.1
+[2025-06-30 22:20:00] LOGIN FAILED from 8.8.8.8
+[2025-06-30 23:50:00] LOGIN FAILED from 8.8.8.8
+[2025-06-30 20:00:00] LOGIN FAILED from 49.37.209.192
+[2025-06-30 20:01:00] LOGIN FAILED from 51.15.0.1
+[2025-06-30 20:02:00] LOGIN FAILED from 139.162.130.8
+[2025-06-30 20:03:00] LOGIN FAILED from 128.199.202.122
+[2025-06-30 20:04:00] LOGIN FAILED from 177.67.82.19
+[2025-06-30 20:05:00] LOGIN FAILED from 139.99.130.233
+[2025-06-30 20:06:00] LOGIN FAILED from 5.255.255.5
+[2025-06-30 20:07:00] LOGIN FAILED from 118.27.21.180
+[2025-06-30 20:08:00] LOGIN FAILED from 102.133.0.10
+[2025-06-30 21:00:01] LOGIN FAILED from 8.8.8.8
+[2025-06-30 21:00:02] LOGIN FAILED from 1.1.1.1
+[2025-06-30 21:00:03] LOGIN FAILED from 203.0.113.5
+[2025-06-30 21:00:04] LOGIN FAILED from 5.255.255.70
+[2025-06-30 21:00:05] LOGIN FAILED from 101.53.158.4
+[2025-06-30 21:00:06] LOGIN FAILED from 185.220.101.1
+[2025-06-30 20:55:00] LOGIN FAILED from 8.8.8.8
+[2025-06-29 02:40:00] LOGIN FAILED from 49.37.113.10
+[2025-06-29 02:41:00] LOGIN FAILED from 5.188.206.13
+[2025-06-29 02:42:00] LOGIN FAILED from 203.0.113.1
+[2025-06-29 02:43:00] LOGIN FAILED from 1.1.1.1
+[2025-06-29 02:44:00] LOGIN FAILED from 8.8.8.8
+[2025-06-29 02:45:00] LOGIN FAILED from 92.38.169.165
+[2025-06-30 20:50:00] LOGIN FAILED from 45.83.64.1
+[2025-06-30 20:51:00] LOGIN FAILED from 92.38.169.165
+[2025-07-04 16:55:00] LOGIN FAILED from 45.13.104.21
+[2025-07-04 16:56:00] LOGIN FAILED from 92.38.169.165
